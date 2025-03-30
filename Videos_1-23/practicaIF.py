@@ -1,9 +1,9 @@
 #Condicional IF
 
 def evaluar(nota):
-    valoracion="aprobado"
+    valoracion="\naprobado\n"
     if nota<5:
-        valoracion="reprobado"
+        valoracion="\nreprobado\n"
     return valoracion
 
 print(evaluar(4))
@@ -14,6 +14,6 @@ a tener en cuenta lo que se pasa por input se tomo como string asi se escriban n
 
 print("programa de evaluación de notas para alumnos")
 
-notaAlumno=input("Ingresa la nota del alumno")
+notaAlumno=input("\nIngresa la nota del alumno ")
 
 print(evaluar(int(notaAlumno)))

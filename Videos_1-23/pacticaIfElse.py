@@ -1,35 +1,35 @@
 #Condicional IF ELSE
 
 #SE muestra el uso de if else y elif con un acceso de mayoría de edad
-print("Verificación de acceso")
+print("Verificación de acceso\n")
 
 edadUsuario = int(input("Ingresa tu edad "))
 
 if edadUsuario<18:
-    print("No puedes pasar")
+    print("\nNo puedes pasar")
 elif edadUsuario>100:
-    print("Edad incorrecta")
+    print("\nEdad incorrecta")
 else:
-    print("Puedes pasar")
+    print("\nPuedes pasar")
 
-print("El programa a finalizado")
+print("\nEl programa a finalizado\n")
 
 #Ahora se validara con distintos niveles de calificaciones
-print("Verificación Nota alumno")
+print("\nVerificación Nota alumno\n")
 
 notaAlumno=int(input("Ingrese la nota del alumno "))
 
 if notaAlumno<4:
-    print("F")
+    print("\nF")
 elif notaAlumno<5:
-    print("E")
+    print("\nE")
 elif notaAlumno<6:
-    print("D")
+    print("\nD")
 elif notaAlumno<7:
-    print("C")
+    print("\nC")
 elif notaAlumno<8:
-    print("B")
+    print("\nB")
 elif notaAlumno<9:
-    print("A")
+    print("\nA")
 else:
-    print("A+")
+    print("\nA+")
