@@ -1,0 +1,10 @@
+README.md
+setup.py
+Videos_33-41/Calculos/__init__.py
+Videos_33-41/Calculos/calculos_generales.py
+Videos_33-41/Calculos/redondeo_potencia/__init__.py
+Videos_33-41/Calculos/redondeo_potencia/round_pow.py
+paqueteCalculos.egg-info/PKG-INFO
+paqueteCalculos.egg-info/SOURCES.txt
+paqueteCalculos.egg-info/dependency_links.txt
+paqueteCalculos.egg-info/top_level.txt
