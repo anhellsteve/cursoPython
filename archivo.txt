@@ -1,0 +1,4 @@
+Comienzo de texto
+Esta nueva linea a sido incluida desde el exterior
+hoy
+Esta es una nueva línea que se agrega al final del archivo
